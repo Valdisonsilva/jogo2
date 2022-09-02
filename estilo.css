@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body{
+    background: green;
+}
+#jogo{
+    
+    width:603px;
+    height:600px;
+    border:solid 10px;
+    margin:auto;
+}
+.linha{
+    height:200px;
+    border-bottom:solid 3px;
+
+}
+.casa{
+    width:200px;
+    height:100%;
+    border-right:solid 1px;
+    float:left;
+}
+div{
+    background-color: rgb(42, 160, 134);
+    box-shadow: 10px 5px 10px;
+    border: 10px;
+
+}
